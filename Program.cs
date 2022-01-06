@@ -9,9 +9,14 @@ class Pilha
         pilhaTeste.StackUp(1);
         pilhaTeste.StackUp(2);
         pilhaTeste.StackUp(3);
+        
+        pilhaTeste.print();
+        pilhaTeste.print();
+        /*
         Console.WriteLine(pilhaTeste.Unstack());
         Console.WriteLine(pilhaTeste.Unstack());
         Console.WriteLine(pilhaTeste.Unstack());
         Console.WriteLine(pilhaTeste.Unstack());
+        */
     }
 }
