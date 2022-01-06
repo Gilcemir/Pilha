@@ -1,6 +1,6 @@
 # Pilha
 Implementação de uma Pilha simples em c#, para praticar.
-Implementação FIFO (first in, first out)
+Implementação LIFO (last in, first out)
 
 Funções:
 StackUp(obj) -> recebe como parâmetro um objeto e empilha.
